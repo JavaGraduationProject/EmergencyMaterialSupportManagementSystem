@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # 应急物资保障系统-（毕设）
 
 > 该系统为应急物资保障系统的前端模块。后端模块请参考：bbk-mss-java
